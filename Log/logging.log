@@ -1,0 +1,384 @@
+2020-02-12 09:33:17 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:33:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:35:18 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows 
+ folder/file.txt
+2020-02-12 09:35:18 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.NullPointerException: Input is Empty. Provide valid input as follows 
+ folder/file.txt
+2020-02-12 09:38:03 ERROR com.auxenta.fileSummaryApplication.Validation:29 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:38:03 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: 0
+2020-02-12 09:39:04 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:39:04 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Characters are : 2700
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Lines are : 91
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:59 - Total Number Of Words are : 500
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:61 - Total Number Of Sentences are : 76
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - : 244
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - com: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - App: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - Files\Java\jdk1: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - xsi:schemaLocation="http:: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - plugins: 5
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - groupId: 18
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - fileSummaryApplication: 4
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - project: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - source: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - commons-io: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - log4j-api: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - apache: 9
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - www: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - jar: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - w3: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - log4j-core: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - goals: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - transformers: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - goal: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - test: 3
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - dependency: 12
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - resource: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - maven: 7
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 2001: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - shade: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - archive: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 0-SNAPSHOT: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - version: 20
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - maven-shade-plugin: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - POM: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - dependencies: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - xmlns="http:: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 0: 6
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 1: 12
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 2: 5
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - C:\Program: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 3: 4
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 4: 5
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - auxenta: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 5: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 6: 3
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - maven-jar-plugin: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - name: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 8: 3
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - true: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - logging: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - xsd": 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - xmlns:xsi="http:: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - http:: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - mainClass: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - configuration: 6
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 0_231\bin\javac: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - modelVersion: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - transformer: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - ComponentsXmlResourceTransformer": 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - jupiter: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - platform: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - scope: 6
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - XMLSchema-instance": 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - artifactId: 20
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - log4j: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - maven-compiler-plugin: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - maven-v4_0_0: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - execution: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - junit: 3
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - org: 12
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - implementation="org: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - manifest: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - packaging: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - url: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - executable: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - target: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - junit-jupiter-engine: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - 0": 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - fork: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - executions: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - junit-platform-runner: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - plugin: 6
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - junit-platform-commons: 1
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - build: 2
+2020-02-12 09:39:43 INFO  com.auxenta.fileSummaryApplication.FilesUtil:66 - [=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2]
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows 
+ folder/file.txt
+2020-02-12 09:40:30 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:49:33 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 09:49:33 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 12:07:20 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Characters are : 2700
+2020-02-12 12:07:20 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Lines are : 91
+2020-02-12 12:07:20 INFO  com.auxenta.fileSummaryApplication.FilesUtil:59 - Total Number Of Words are : 500
+2020-02-12 12:07:20 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - {=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2}
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows 
+ folder/file.txt
+2020-02-12 13:18:35 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:20:24 INFO  com.auxenta.fileSummaryApplication.FilesUtil:54 - Total Number Of Characters are : 2700
+2020-02-12 13:20:24 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Lines are : 91
+2020-02-12 13:20:24 INFO  com.auxenta.fileSummaryApplication.FilesUtil:56 - Total Number Of Words are : 500
+2020-02-12 13:20:24 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Sentences are : 76
+2020-02-12 13:20:24 INFO  com.auxenta.fileSummaryApplication.FilesUtil:59 - {=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2}
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows 
+ folder/file.txt
+2020-02-12 13:22:53 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows 
+ folder/file.txt
+2020-02-12 13:25:33 INFO  com.auxenta.fileSummaryApplication.FilesUtil:54 - Total Number Of Characters are : 2700
+2020-02-12 13:25:33 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Lines are : 91
+2020-02-12 13:25:33 INFO  com.auxenta.fileSummaryApplication.FilesUtil:56 - Total Number Of Words are : 500
+2020-02-12 13:25:33 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Sentences are : 76
+2020-02-12 13:25:33 INFO  com.auxenta.fileSummaryApplication.FilesUtil:58 - {=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2}
+2020-02-12 14:18:20 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:18:20 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 14:18:20 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:20:46 ERROR com.auxenta.fileSummaryApplication.UserInput:15 - java.lang.ArrayIndexOutOfBoundsException: 0
+2020-02-12 14:21:25 ERROR com.auxenta.fileSummaryApplication.UserInput:15 - java.lang.ArrayIndexOutOfBoundsException: 0
+2020-02-12 14:23:02 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:23:02 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:17 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 14:24:32 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 14:28:38 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:12 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:12 ERROR com.auxenta.fileSummaryApplication.Validation:32 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 14:30:12 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:33:25 INFO  com.auxenta.fileSummaryApplication.FilesUtil:54 - Total Number Of Characters are : 2700
+2020-02-12 14:33:25 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Lines are : 91
+2020-02-12 14:33:25 INFO  com.auxenta.fileSummaryApplication.FilesUtil:56 - Total Number Of Words are : 500
+2020-02-12 14:33:25 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Sentences are : 76
+2020-02-12 14:33:25 INFO  com.auxenta.fileSummaryApplication.FilesUtil:58 - {=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2}
+2020-02-12 14:34:47 INFO  com.auxenta.fileSummaryApplication.FilesUtil:54 - Total Number Of Characters are : 2700
+2020-02-12 14:34:47 INFO  com.auxenta.fileSummaryApplication.FilesUtil:55 - Total Number Of Lines are : 91
+2020-02-12 14:34:47 INFO  com.auxenta.fileSummaryApplication.FilesUtil:56 - Total Number Of Words are : 500
+2020-02-12 14:34:47 INFO  com.auxenta.fileSummaryApplication.FilesUtil:57 - Total Number Of Sentences are : 76
+2020-02-12 14:34:47 INFO  com.auxenta.fileSummaryApplication.FilesUtil:58 - {=244, com=2, App=1, Files\Java\jdk1=1, xsi:schemaLocation="http:=1, plugins=5, groupId=18, fileSummaryApplication=4, project=2, source=2, commons-io=2, log4j-api=1, apache=9, www=1, jar=1, w3=1, log4j-core=1, goals=2, transformers=2, goal=2, test=3, dependency=12, resource=1, maven=7, 2001=1, shade=2, archive=2, 0-SNAPSHOT=1, version=20, maven-shade-plugin=1, POM=2, dependencies=2, xmlns="http:=1, 0=6, 1=12, 2=5, C:\Program=1, 3=4, 4=5, auxenta=2, 5=1, 6=3, maven-jar-plugin=1, name=2, 8=3, true=1, logging=2, xsd"=1, xmlns:xsi="http:=1, http:=2, mainClass=2, configuration=6, 0_231\bin\javac=1, modelVersion=2, transformer=1, ComponentsXmlResourceTransformer"=1, jupiter=1, platform=2, scope=6, XMLSchema-instance"=1, artifactId=20, log4j=2, maven-compiler-plugin=1, maven-v4_0_0=1, execution=2, junit=3, org=12, implementation="org=1, manifest=2, packaging=2, url=2, executable=2, target=2, junit-jupiter-engine=1, 0"=1, fork=2, executions=2, junit-platform-runner=1, plugin=6, junit-platform-commons=1, build=2}
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.Validation:33 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:51:24 ERROR com.auxenta.fileSummaryApplication.Validation:33 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.Validation:33 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.Validation:29 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 14:52:49 ERROR com.auxenta.fileSummaryApplication.Validation:33 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:37 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:37 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:45 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:37 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:42 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:17:46 ERROR com.auxenta.fileSummaryApplication.Validation:45 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:39 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:36 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:18:46 ERROR com.auxenta.fileSummaryApplication.Validation:39 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:39 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:36 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:11 ERROR com.auxenta.fileSummaryApplication.Validation:39 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:19:56 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:20:11 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:34:48 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:35:36 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:36:17 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:34 INFO  com.auxenta.fileSummaryApplication.FilesUtil:62 - Total Number Of Characters are : 46810
+2020-02-12 15:43:34 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - Total Number Of Lines are : 164
+2020-02-12 15:43:35 INFO  com.auxenta.fileSummaryApplication.FilesUtil:64 - Total Number Of Words are : 6813
+2020-02-12 15:43:35 INFO  com.auxenta.fileSummaryApplication.FilesUtil:65 - Total Number Of Sentences are : 2385
+2020-02-12 15:43:35 INFO  com.auxenta.fileSummaryApplication.FilesUtil:66 - {=798, FilesUtil:66=1, 15:35:36=9, 09:40:30=9, source:=1, XMLSchema-instance"=1=6, 15:17:46=9, 0:=1, execution:=1, archive:=1, path=58, java=63, log4j:=1, ERROR=174, 0-SNAPSHOT=1=6, test=3=6, resource:=1, FilesUtil:54=4, FilesUtil:55=6, 12=3, FilesUtil:56=4, FilesUtil:57=6, FilesUtil:58=3, FilesUtil:59=3, 18=1, 1:=1, packaging=2=6, modelVersion:=1, -=284, 14:24:32=9, 0=3, input=113, 1=31, xsd":=1, as=171, 244=1, 2=28, manifest=2=6, folder=171, 3=4, auxenta=284, 4=2, 5=3, 6=4, 7=1, project:=1, 9=1, must=95, :=24, 09:39:43=86, FilesUtil:61=1, FilesUtil:63=82, 20=2, xmlns="http:=1=6, junit=3=6, scope=6=6, log4j=2=6, dependencies=2=6, executions=2=6, App:=1, fileSummaryApplication:=1, 2:=1, executable=2=6, 6=3=6, Provide=76, execution=2=6, commons-io:=1, build:=1, are=23, 13:25:33=5, 15:18:46=9, 15:19:11=9, goal:=1, org=12=6, xsi:schemaLocation="http:=1=6, maven=7=6, name=2=6, Files\Java\jdk1=1=6, 13:20:24=5, 15:36:17=9, 2020-02-12=284, c=135, NullPointerException:=1, one=190, 3:=1, ArrayIndexOutOfBoundsException:=42, fork:=1, txt=171, maven-v4_0_0=1=6, Words=6, goals:=1, 13:18:35=9, xsd"=1=6, 4:=1, target:=1, 0":=1, 5=1=6, junit:=1, INFO=110, maven-shade-plugin:=1, There=58, 14:34:47=5, url:=1, App=1=6, 2001=1=6, ComponentsXmlResourceTransformer":=1, 5:=1, maven-compiler-plugin:=1, Please=95, transformers:=1, 14:52:49=8, 14:28:38=9, Files\Java\jdk1:=1, log4j-core:=1, manifest:=1, xmlns:xsi="http::=1, Lines=6, goals=2=6, plugin:=1, 15:34:48=9, 6:=1, project=2=6, Validation:45=2, logging:=1, =244=6, artifactId=20=6, 4=5=6, UserInput:15=2, UserInput:14=60, auxenta=2=6, POM=2=6, 09:35:18=2, Empty=18, Number=23, C:\Program=1=6, logging=2=6, packaging:=1, log4j-api:=1, 76=5, plugins=5=6, source=2=6, shade=2=6, 14:24:17=9, dependencies:=1, jar=1=6, mnt=135, true:=1, 500=6, com:=1, Sentences=5, 14:18:20=3, 14:30:11=6, 14:30:12=3, Validation:29=31, 8:=1, w3=1=6, fileSummaryApplication=284, 13:22:53=9, 3=4=6, junit-jupiter-engine=1=6, 0"=1=6, 14:51:24=8, 2700=6, transformers=2=6, Validation:30=17, Validation:31=6, 91=6, transformer:=1, junit-platform-commons=1=6, w3:=1, log4j-core=1=6, dependency:=1, plugin=6=6, configuration=6=6, io=20, modelVersion=2=6, Validation:32=9, is=76, mainClass:=1, Validation:33=9, dependency=12=6, Validation:39=4, Validation:36=30, jupiter:=1, Validation:37=3, 12:07:20=4, provide=95, name:=1, mainClass=2=6, Validation:42=1, 14:33:25=5, configuration:=1, build=2=6, XMLSchema-instance":=1, 2=5=6, apache:=1, platform=2=6, jar:=1, target=2=6, valid=76, 0_231\bin\javac=1=6, file=287, junit-platform-runner=1=6, have=95, 1=12=6, executable:=1, apache=9=6, implementation="org:=1, archive=2=6, FileNotFoundException:=20, version=20=6, 14:23:02=2, com=2=6, xmlns:xsi="http:=1=6, test:=1, C:\Program:=1, com=284, maven:=1, maven-compiler-plugin=1=6, scope:=1, Characters=6, fork=2=6, shade:=1, 14:20:46=1, xmlns="http::=1, 2001:=1, maven-shade-plugin=1=6, maven-jar-plugin:=1, Input=113, 15:20:11=9, 09:33:17=2, only=190, follows=171, 09:49:33=2, groupId:=1, www=1=6, plugins:=1, www:=1, 09:39:04=2, commons-io=2=6, no=58, junit-jupiter-engine:=1, platform:=1, 0=6=6, jupiter=1=6, version:=1, maven-jar-plugin=1=6, true=1=6, 8=3=6, fileSummaryApplication=4=6, http:=2=6, 15:19:56=9, 15:43:34=6, log4j-api=1=6, http::=1, junit-platform-commons:=1, groupId=18=6, 09:38:03=2, 0-SNAPSHOT:=1, lang=43, value=95, executions:=1, transformer=1=6, org:=1, url=2=6, goal=2=6, ComponentsXmlResourceTransformer"=1=6, implementation="org=1=6, POM:=1, artifactId:=1, resource=1=6, 14:21:25=1, junit-platform-runner:=1, auxenta:=1, 0_231\bin\javac:=1, Total=23, Of=23, xsi:schemaLocation="http::=1, maven-v4_0_0:=1}
+2020-02-12 15:43:35 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:35 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:35 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:43:45 INFO  com.auxenta.fileSummaryApplication.FilesUtil:62 - Total Number Of Characters are : 51465
+2020-02-12 15:43:45 INFO  com.auxenta.fileSummaryApplication.FilesUtil:63 - Total Number Of Lines are : 172
+2020-02-12 15:43:45 INFO  com.auxenta.fileSummaryApplication.FilesUtil:64 - Total Number Of Words are : 7516
+2020-02-12 15:43:45 INFO  com.auxenta.fileSummaryApplication.FilesUtil:65 - Total Number Of Sentences are : 2626
+2020-02-12 15:43:45 INFO  com.auxenta.fileSummaryApplication.FilesUtil:66 - {=1084, 09:40:30=9, source:=1, log4j-api:=1=1, 15:17:46=9, dependencies=2=6=1, execution:=1, have=95=1, org:=1=1, 09:49:33=2=1, path=59, 13:25:33=5=1, executions:=1=1, xmlns="http:=1=6=1, 13:22:53=9=1, log4j:=1, 14:23:02=2=1, transformer=1=6=1, test=3=6, resource:=1, FilesUtil:61=1=1, 3:=1=1, =798=1, one=190=1, xsi:schemaLocation="http::=1=1, groupId:=1=1, packaging=2=6, manifest:=1=1, modelVersion:=1, -=292, 15:43:34=6=1, 14:24:32=9, 0=3, 1=31, xsd":=1, as=174, 2=28, manifest=2=6, folder=174, 3=4, auxenta=292, 4=2, 5=3, 6=4, 7=1, project:=1, 9=1, :=28, junit-platform-commons:=1=1, xmlns:xsi="http:=1=6=1, 09:39:43=86, 09:35:18=2=1, junit=3=6, name:=1=1, execution:=1=1, folder=171=1, txt=171=1, test:=1=1, executable=2=6, modelVersion:=1=1, execution=2=6, 500=6=1, 15:18:46=9, 15:19:11=9, jupiter=1=6=1, maven=7=6, mainClass:=1=1, shade=2=6=1, Files\Java\jdk1=1=6, 13:20:24=5, 15:34:48=9=1, c=138, 46810=1, log4j-core=1=6=1, Characters=6=1, -=284=1, C:\Program:=1=1, App=1=6=1, 14:52:49=8=1, true:=1=1, 6813=1, no=58=1, 13:18:35=9, goal=2=6=1, 4:=1=1, Validation:39=4=1, target:=1, 0":=1, archive:=1=1, scope:=1=1, INFO=115, maven-shade-plugin:=1, Please=95=1, 09:39:43=86=1, xmlns:xsi="http::=1=1, 14:34:47=5, url:=1, 2001=1=6, C:\Program=1=6=1, 0":=1=1, 91=6=1, Total=23=1, Validation:29=31=1, transformers:=1, ComponentsXmlResourceTransformer":=1=1, fileSummaryApplication=4=6=1, auxenta:=1=1, goals=2=6, apache=9=6=1, plugin:=1, Validation:30=17=1, Validation:45=2, logging:=1, =244=6, dependencies:=1=1, artifactId=20=6, UserInput:15=2, 09:39:04=2=1, UserInput:14=60, file=287=1, auxenta=2=6, fileSummaryApplication=284=1, Number=27, C:\Program=1=6, 15:35:36=9=1, packaging:=1, junit-platform-runner:=1=1, log4j-api:=1, :=24=1, plugins=5=6, 5:=1=1, 5=1=6=1, There=58=1, source=2=6, shade=2=6, 14:24:17=9, configuration=6=6=1, 2385=1, jar=1=6, maven-jar-plugin=1=6=1, 500=6, 0"=1=6=1, www=1=6=1, dependency:=1=1, auxenta=2=6=1, project:=1=1, Validation:29=31, FilesUtil:54=4=1, fileSummaryApplication=292, Validation:37=3=1, UserInput:15=2=1, transformer:=1=1, 0"=1=6, 14:51:24=8, Validation:30=18, Validation:31=6, w3:=1, dependency:=1, io=20, modelVersion=2=6, valid=76=1, Validation:32=9, is=78, 15:36:17=9=1, Validation:33=10, dependency=12=6, Validation:39=4, Validation:36=31, Validation:37=3, build=2=6=1, 12:07:20=4, 2700=6=1, name:=1, mainClass=2=6, http:=2=6=1, Validation:42=1, source=2=6=1, configuration:=1, implementation="org=1=6=1, 6:=1=1, XMLSchema-instance":=1, 15:20:11=9=1, commons-io=2=6=1, junit=3=6=1, jupiter:=1=1, FilesUtil:55=6=1, must=95=1, implementation="org:=1=1, platform=2=6, jar:=1, target=2=6, valid=78, 0_231\bin\javac=1=6, file=292, 0-SNAPSHOT=1=6=1, packaging:=1=1, plugins:=1=1, junit-platform-runner=1=6, have=96, 1=12=6, true=1=6=1, executable:=1, apache=9=6, 12=3=1, POM:=1=1, 13:20:24=5=1, implementation="org:=1, 15:19:56=9=1, platform:=1=1, FileNotFoundException:=20, FilesUtil:66=1=1, junit-jupiter-engine:=1=1, 15:17:46=9=1, Of=23=1, com=2=6, 09:40:30=9=1, C:\Program:=1, version:=1=1, target:=1=1, com=292, configuration:=1=1, scope:=1, www:=1=1, shade:=1, path=58=1, goals=2=6=1, 2001:=1, 9=1=1, maven-jar-plugin:=1, source:=1=1, executions=2=6=1, 4=5=6=1, XMLSchema-instance":=1=1, 1=31=1, NullPointerException:=1=1, 15:19:11=9=1, fork=2=6=1, Empty=18=1, follows=174, 09:49:33=2, 2020-02-12=284=1, groupId:=1, io=20=1, www=1=6, plugins:=1, groupId=18=6=1, www:=1, 2001:=1=1, commons-io:=1=1, 09:39:04=2, executable:=1=1, FileNotFoundException:=20=1, no=59, 2=28=1, platform:=1, jupiter=1=6, true=1=6, 8=3=6, maven-shade-plugin=1=6=1, fileSummaryApplication=4=6, 14:24:17=9=1, http:=2=6, 14:20:46=1=1, http::=1, 09:38:03=2, version=20=6=1, 0-SNAPSHOT:=1, platform=2=6=1, lang=43, Files\Java\jdk1=1=6=1, java=63=1, =244=6=1, provide=95=1, org:=1, mainClass=2=6=1, implementation="org=1=6, 6=3=6=1, auxenta:=1, jar=1=6=1, Of=27, xsi:schemaLocation="http::=1, maven-v4_0_0:=1, Words=6=1, FilesUtil:65=1, FilesUtil:66=2, 15:35:36=9, Validation:33=9=1, XMLSchema-instance"=1=6, POM=2=6=1, 13:18:35=9=1, FilesUtil:58=3=1, 0:=1, target=2=6=1, archive:=1, 7=1=1, 8:=1=1, log4j-api=1=6=1, url=2=6=1, java=63, 14:30:12=3=1, ERROR=177, ArrayIndexOutOfBoundsException:=42=1, 0-SNAPSHOT=1=6, FilesUtil:54=4, FilesUtil:55=6, 12=3, FilesUtil:56=4, FilesUtil:57=6, FilesUtil:58=3, FilesUtil:59=3, 18=1, 1:=1, lang=43=1, Validation:45=2=1, resource=1=6=1, input=115, 244=1, input=113=1, Files\Java\jdk1:=1=1, scope=6=6=1, must=96, FilesUtil:61=1, maven-compiler-plugin=1=6=1, FilesUtil:62=1, FilesUtil:63=83, 20=2, xmlns="http:=1=6, FilesUtil:64=1, scope=6=6, log4j=2=6, Validation:32=9=1, dependencies=2=6, executions=2=6, maven-v4_0_0=1=6=1, 20=2=1, Input=113=1, App:=1, plugin=6=6=1, fileSummaryApplication:=1, 2:=1, FilesUtil:59=3=1, 6=3=6, 6=4=1, Provide=78, commons-io:=1, build:=1, mnt=135=1, are=27, 13:25:33=5, c=135=1, 14:30:11=6=1, goal:=1, org=12=6, xsi:schemaLocation="http:=1=6, name=2=6, com=2=6=1, maven-jar-plugin:=1=1, 15:36:17=9, 2020-02-12=292, NullPointerException:=1, one=192, 3:=1, ArrayIndexOutOfBoundsException:=42, fork:=1, transformers:=1=1, txt=174, maven-v4_0_0=1=6, fileSummaryApplication:=1=1, Words=7, goals:=1, Validation:31=6=1, xsd"=1=6, 4:=1, dependency=12=6=1, 5=1=6, junit:=1, FilesUtil:56=4=1, 5=3=1, org=12=6=1, 14:18:20=3=1, There=59, goals:=1=1, 09:33:17=2=1, ERROR=174=1, build:=1=1, App=1=6, ComponentsXmlResourceTransformer":=1, 14:34:47=5=1, FilesUtil:63=82=1, 5:=1, maven=7=6=1, manifest=2=6=1, maven-compiler-plugin:=1, logging=2=6=1, 14:51:24=8=1, 76=5=1, Please=96, 164=1, plugins=5=6=1, Provide=76=1, junit-jupiter-engine=1=6=1, 2001=1=6=1, 14:52:49=8, 14:28:38=9, Files\Java\jdk1:=1, 1=12=6=1, log4j-core:=1, manifest:=1, xmlns:xsi="http::=1, 14:33:25=5=1, Validation:36=30=1, 2=5=6=1, Lines=7, xsi:schemaLocation="http:=1=6=1, 15:34:48=9, 6:=1, project=2=6, 3=4=6=1, 4=2=1, 4=5=6, FilesUtil:57=6=1, POM=2=6, goal:=1=1, fork:=1=1, 09:35:18=2, Empty=19, logging=2=6, 8=3=6=1, maven:=1=1, test=3=6=1, plugin:=1=1, com=284=1, 76=5, App:=1=1, shade:=1=1, artifactId:=1=1, 09:38:03=2=1, dependencies:=1, Validation:42=1=1, 0_231\bin\javac=1=6=1, mnt=138, true:=1, artifactId=20=6=1, com:=1, Sentences=6, 14:18:20=3, 14:30:11=6, value=95=1, 14:30:12=3, Number=23=1, maven-v4_0_0:=1=1, 8:=1, w3=1=6, 13:22:53=9, 0:=1=1, 3=4=7, junit-jupiter-engine=1=6, 2700=6, transformers=2=6, com:=1=1, resource:=1=1, 91=6, transformer:=1, maven-compiler-plugin:=1=1, junit-platform-commons=1=6, log4j-core=1=6, plugin=6=6, configuration=6=6, INFO=110=1, modelVersion=2=6=1, mainClass:=1, jupiter:=1, 12:07:20=4=1, w3=1=6=1, provide=96, log4j=2=6=1, 14:33:25=5, jar:=1=1, build=2=6, executable=2=6=1, 2=5=6, apache:=1, name=2=6=1, Sentences=5=1, as=171=1, http::=1=1, url:=1=1, archive=2=6, project=2=6=1, 1:=1=1, version=20=6, 14:23:02=2, xmlns:xsi="http:=1=6, log4j-core:=1=1, archive=2=6=1, transformers=2=6=1, test:=1, follows=171=1, Lines=6=1, maven:=1, maven-compiler-plugin=1=6, Characters=7, junit:=1=1, fork=2=6, 14:20:46=1, xmlns="http::=1, maven-shade-plugin=1=6, is=76=1, xsd":=1=1, are=23=1, Input=115, 15:20:11=9, 15:18:46=9=1, 09:33:17=2, w3:=1=1, only=192, auxenta=284=1, 244=1=1, 0_231\bin\javac:=1=1, maven-shade-plugin:=1=1, log4j:=1=1, commons-io=2=6, xsd"=1=6=1, xmlns="http::=1=1, logging:=1=1, junit-platform-runner=1=6=1, junit-jupiter-engine:=1, 0=3=1, apache:=1=1, 0=6=6, packaging=2=6=1, 2:=1=1, version:=1, 14:21:25=1=1, maven-jar-plugin=1=6, 15:43:35=6, 15:19:56=9, 15:43:34=8, 14:28:38=9=1, log4j-api=1=6, junit-platform-commons:=1, groupId=18=6, value=96, executions:=1, transformer=1=6, url=2=6, 0=6=6=1, goal=2=6, ComponentsXmlResourceTransformer"=1=6, UserInput:14=60=1, POM:=1, artifactId:=1, resource=1=6, 14:21:25=1, 14:24:32=9=1, 18=1=1, execution=2=6=1, junit-platform-runner:=1, ComponentsXmlResourceTransformer"=1=6=1, 0_231\bin\javac:=1, junit-platform-commons=1=6=1, Total=27, XMLSchema-instance"=1=6=1, only=190=1, 0-SNAPSHOT:=1=1}
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:48 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 15:45:59 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.UserInput:14 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:30 - Input must have only one value. Please provide only one input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:33 - Input is Empty. Provide valid input as follows /mnt/c/folder/file.txt
+2020-02-12 16:02:44 ERROR com.auxenta.fileSummaryApplication.Validation:36 - There is no file. Provide valid file path as follows /mnt/c/folder/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows/path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows/path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.Validation:34 - There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:12:31 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:12:58 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:13:23 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:14:17 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:15:01 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input is Empty. Provide valid input as follows /path/to/file.txt
+2020-02-12 17:15:58 ERROR com.auxenta.fileSummaryApplication.Validation:34 - There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:16:11 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:16:11 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input is Empty. Provide valid input as follows /path/to/file.txt
+2020-02-12 17:16:11 ERROR com.auxenta.fileSummaryApplication.Validation:34 - There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows/path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.lang.ArrayIndexOutOfBoundsException: Input must have only one value. Please provide only one input as follows/path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:34 - There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.UserInput:13 - java.io.FileNotFoundException: There is no file. Provide valid file path as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:28 - Input must have only one value. Please provide only one input as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:31 - Input is Empty. Provide valid input as follows /path/to/file.txt
+2020-02-12 17:16:24 ERROR com.auxenta.fileSummaryApplication.Validation:34 - There is no file. Provide valid file path as follows /path/to/file.txt
